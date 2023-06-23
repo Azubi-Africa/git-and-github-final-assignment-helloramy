@@ -20,7 +20,7 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
+| 1 |  - Bank Loan Calculator            |  - An app that helps you calculate the monthly loan deductions for customers          | https://github.com/helloramy/Loan-Calculator.git      |
 | 2 |  -             |  -             | https://       |
 | 3 |  -             |  -             | https://       |
 
