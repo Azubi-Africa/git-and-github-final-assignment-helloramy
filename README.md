@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  - Bank Loan Calculator            |  - An app that helps you calculate the monthly loan deductions for customers          | https://github.com/helloramy/Loan-Calculator.git      |
-| 2 |  - Stock Quantity Estimator            |  - This is to help production and line managers to correctly product how much to produce to effectively meet the requests from the Sales Department            | https://github.com/helloramy/Stock-Quantity-Estimator.git       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Bank Loan Calculator            |  An app that helps you calculate the monthly loan deductions for customers          | https://github.com/helloramy/Loan-Calculator.git      |
+| 2 |  Stock Quantity Estimator            |  This is to help production and line managers to correctly product how much to produce to effectively meet the requests from the Sales Department            | https://github.com/helloramy/Stock-Quantity-Estimator.git       |
+| 3 |  Text Encrypt/Decrypt             | An app to encrypt simple messages/text into unreadable cypher, and also convert cypher messages back to plain text             | https://github.com/helloramy/TextEncrypt.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
